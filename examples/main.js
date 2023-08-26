@@ -1,8 +1,11 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-import 'mooc-ui-wiser/dist/css/index.css';
-import MUI from 'mooc-ui-wiser';
+// import 'mooc-ui-wiser/dist/css/index.css';
+// import MUI from 'mooc-ui-wiser';
+
+import 'mooc-ui2/dist/css/index.css';
+import MUI from 'mooc-ui2';
 Vue.use(MUI);
 
 

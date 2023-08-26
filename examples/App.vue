@@ -21,7 +21,7 @@
     <br />
     <m-card imgSrc="ccc.png" :width="370" :imgHeight="90">
       本路线旨在帮助想快速掌握SpringBoot应用的工程师 全方位多角度带你升级
-      <template v-slot="footer">
+      <template v-slot:footer>
         <div class="footer-spring">
           <div class="level">4步骤 6门课</div>
           <div class="level">10965收藏</div>
